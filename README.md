@@ -1,7 +1,7 @@
 <div align="center">  
 
   # 💣 Jung SeokJoon
-  
+  <h2>Android Developer / Softerware Engineer</h2>
 ## Skills
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://developer.android.com/?hl=ko) 
 [![](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
