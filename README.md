@@ -1,3 +1,5 @@
+<div align="center">  
+
 ## Skills
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://developer.android.com/?hl=ko) 
 [![](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -11,3 +13,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshc123)](https://github.com/eshc123/github-readme-stats)
 
+</div>
